@@ -1,5 +1,5 @@
 
-# linear-regression
+# text-classifier
 
 - running server: TBA
 
